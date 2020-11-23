@@ -2,10 +2,14 @@
  
 Limpeza de base de dados para serveidores Fivem ESX
 
-Instalação:
+**Requisitos**
 
-1-Renomear a pasta para Limpeza_Bebiano e enviar para pasta resources
+`mysql-async`
 
-2- dar start a resource no server.cfg
+**Instalação:**
 
-exemplo: ensure Limpeza_Bebiano
+`1-Renomear a pasta para Limpeza_Bebiano e enviar para pasta resources`
+
+`2- dar start a resource no server.cfg`
+
+`exemplo: ensure Limpeza_Bebiano`
